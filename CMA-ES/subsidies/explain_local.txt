@@ -1,0 +1,5 @@
+
+This is the local input you want to explain using SHAP. The first 18
+entries are the NN inputs; the last value is the bid total
+
+0.3472 0.3416 0.5000 0.3472 0.3416 0.5000 0.3471 0.3416 0.5000 0.3471 0.3416 0.5000 0.3471 0.3472 0.5000 0.3471 0.3472 0.5000 1.0359 
